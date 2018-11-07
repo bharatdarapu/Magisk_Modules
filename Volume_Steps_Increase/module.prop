@@ -1,0 +1,7 @@
+id=PH-1_VolumeSteps
+name=Volume Steps Increase Module PH-1_VolumeSteps
+version=v1
+versionCode=1
+author=bharatdarapu
+description=A very simple module to increase the media volume steps of PH-1 to 30
+minMagisk=17000
