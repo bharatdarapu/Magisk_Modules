@@ -2,9 +2,5 @@
 # Example: Change dpi
 # ro.sf.lcd_density=320
 
-#The below needs to be changed to increase steps for calls. Default is 7
-#ro.config.vc_call_vol_steps=14
-
-#The below needs to be changed to increase steps for media. Default is 15
+# Media Volume
 ro.config.media_vol_steps=30
-
